@@ -34,11 +34,3 @@ Install AWS CLI:
 sudo yum update -y
 sudo yum install awscli -y
 aws --version
-
-Linkedin:
-
----
-```bash
-linked
-
-
