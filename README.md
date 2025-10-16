@@ -34,4 +34,6 @@ Install AWS CLI:
 sudo yum update -y
 sudo yum install awscli -y
 aws --version
---- 
+# Example command
+aws s3 cp myfile.txt s3://mybucket/
+
